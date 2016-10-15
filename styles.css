@@ -1,0 +1,46 @@
+body {
+  background: url("/images/harambe-bg.jpg") no-repeat fixed; background-size: cover;
+}
+
+a:link, a:visited { 
+  color: #992299;
+}
+a:hover{ 
+  color: #CCCCCC;
+}
+
+header{
+  text-align:center; 
+  text-shadow: 2px 2px #222222;
+  background: url("/images/harambe-header.jpg") no-repeat center;
+  height:500px;
+}
+h1.header {
+  color: #FFFFFF;
+  font-size:900%;
+  padding-top:50px;
+  font-family: Palatino;
+}
+
+nav{
+  margin-top: -40px;
+  text-align:center;
+  font-size:200%;
+}
+
+section{
+  background-color: white;
+  display:inline-table;
+  max-width:30%;
+  margin: 2% .45% .45% .45%;
+  padding:1%;
+  border: 3px solid #992299;
+}
+
+footer{
+  background-color: white;
+  max-width:100%;
+  margin: 2% 0% 0% 0%;
+  padding:1%;
+  border: 3px solid #992299;
+}
