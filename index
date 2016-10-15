@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>RIP Sweet Prince</title>
+  <link rel="stylesheet" type="text/css" href="/styles.css">
+    
+</head>
+
+<body>
+  <header>
+    <h1 class="header">WE MISS YOU</h1>
+  </header>
+  <nav>
+    <a href="#">Home</a> |
+    <a href="/stats.html">Stats</a> |
+    <a href="http://i.imgur.com/ed6JneS.gif" target="_blank">Extra Stuff</a>
+  </nav> 
+  <section>
+    <h2 style="text-align:center;">The Tragedy</h2>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Py_1aCt2c0s?showinfo=0" frameborder="0" allowfullscreen></iframe><p>On May 28, 2016, a three-year-old boy visiting the Cincinnati Zoo fell into the moat at the Gorilla World habitat. Witnesses said they heard the child say he wanted to go into the gorilla enclosure. The boy then climbed a three-foot-tall fence, crawled through four feet of bushes and then fell fifteen feet into a moat of shallow water. Zoo officials immediately signaled for the three gorillas in the habitat to return inside, and two females did so. However, the third gorilla, the inquisitive 440-pound (200 kg) male silverback, Harambe, climbed down into the moat to investigate the child splashing in the water.
+<br><br>Over the next ten minutes, Harambe became increasingly "agitated and disoriented" by the screams of onlookers. He dragged the child through the water, occasionally propping him up when he sat, or pushing him down when he stood. Harambe exhibited "strutting" behavior - walking around with legs and arms stiffly extended to appear bigger - a bluffing move, though one with inherent danger should he throw or drag the boy around too roughly. Harambe then carried the boy up a ladder out of the moat onto dry land. Afraid for the boy's life, zoo officials made the decision to kill the gorilla, doing so with a single gunshot. Cincinnati firefighters said the boy was between Harambe's legs when the shot was fired. Harambe was killed one day after his 17th birthday.</p>
+  </section>
+  <section>
+    <h2 style="text-align:center;">The World's Tears</h2>
+    <img src="/images/heaven.jpg" align="left" width="325" style="padding:10px;"><p>The shooting was controversial, with some observers stating that it was unclear whether Harambe was likely to harm the child. Others called for the boy's parents or the zoo to be held accountable for the gorilla's death. Director Thane Maynard stated, "The child was being dragged around ... His head was banging on concrete. This was not a gentle thing. The child was at risk." Police investigated possible criminal charges against the parents, while the parents defended the zoo's actions. The boy's mother also became the target of harassment on the internet and social media. On June 6, 2016, Ohio prosecutor Joseph Deters said that the mother would not face any charges of wrongdoing. The zoo was investigated by the Association of Zoos and Aquariums (AZA), which sets the standards for zoos, and the USDA.
+<br><br>The incident was recorded by a bystander and uploaded to YouTube, where the video went viral and received global publicity. It sparked debate among biologists and primatologists on whether gorillas and other primates should be held in captivity at all. Primatologist Jane Goodall said that according to the video it seemed Harambe was trying to protect the child. Goodall later issued a longer explanation in an interview with the president of the International Fund for Animal Welfare, concluding that the zoo had no choice but to kill Harambe. She wrote, "It was awful for the child, the parents, Harambe, the zoo, the keepers and the public. But when people come into contact with wild animals, life and death decisions sometimes have to be made." Goodall said that as long as humans and wild animals are kept in close proximity in zoos, there is no way to prevent accidents from happening, but she believed that zoos "with the highest standards of care" could play an important role. Zookeeper Jack Hanna strongly defended the zoo's actions as the "correct decision", noting that a tranquilizer dart might have taken five or ten minutes to take effect and could have aggravated Harambe further. Primatologist Frans de Waal said he saw few options for the zoo: "A gorilla is so immensely strong that even with the best of intentions—and we are not sure that Harambe had those—the child's death was a probable outcome.</p>
+  </section>
+  <section>
+    <h2 style="text-align:center;">Memes and Music</h2>
+    <center><audio controls>
+      <source src="/images/song.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+    </audio></center>
+    <p>Following the killing, Harambe became subject of multiple viral Internet memes. As People magazine wrote: "Harambe continues to live on in the collective mind of the internet, entering into a rarefied state of venerated meme status."[30] One of the most widespread memes was noted by The Washington Post and New York magazine who observed a proliferation of over-the-top and fake tributes to Harambe. "The idea is, the more intense and more sincere-seeming the expression of mourning is, the funnier the joke." For example, the "Dicks out for Harambe" meme can be seen as a fake tribute to an incident that would normally engender sincere mourning. As Aja Romano of Vox wrote, "If you were a progressive, the Harambe meme gave you a chance to mock what you viewed as the hypocritical haranguing of the mainstream while avoiding real issues of social justice; and if you were a conservative, the Harambe meme gave you a chance to mock liberal hysteria." One meme is a play on conspiracy theories, such as "Bush did Harambe", a reference to the 9/11 conspiracy theories. In Australia, people joked about supporting Harambe's corpse as a write-in candidate on the ballot for the federal election. Public Policy Polling included Harambe in their polling for the U.S. presidential election. The dead gorilla had 5% support in late July 2016 (ahead of Green Party nominee Jill Stein) and 2% in August 2016 (tied with Stein). A self-described underground culture collective known as Otaku Gang made a parody fighting game known as Harambe vs. Capcom, with Harambe being able to fight characters from Capcom's Street Fighter franchise.
+      <br><br>Cincinnati Zoo director Thane Maynard reacted negatively: "We are not amused by the memes, petitions and signs about Harambe. Our zoo family is still healing, and the constant mention of Harambe makes moving forward more difficult for us. We are honoring Harambe by redoubling our gorilla conservation efforts and encouraging others to join us."[40] In late August, the zoo felt forced to delete its Twitter account after being targeted daily by trolls mentioning Harambe
+      <br><br>A tribute song for the gorilla by YouTuber Filthy Frank went viral on YouTube. American rappers Young Thug and Dumbfoundead each released songs entitled "Harambe". The former did so on his album Jeffery, of which each track is named after one of his "idols", although the song does not reference the gorilla; the latter likens the fate of the ape to gang violence and police brutality.</p>
+  </section>
+  
+  <footer>
+    <p><em>Source: <a href="https://en.wikipedia.org/wiki/Killing_of_Harambe#Music">https://en.wikipedia.org/wiki/Killing_of_Harambe</a></em></p>
+  </footer>
+
+</body>
+
+</html>
